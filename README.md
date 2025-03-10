@@ -4,7 +4,7 @@
 
 ---
 
-🌟 About Me:
+### 🌟 About Me:
 - 🎓 **M.Sc Software Systems** student at **PSG Tech Coimbatore** (3rd year of 5 years)
 - 💻 Skilled in **C, C++, Python, Java, JavaScript, SQL, Machine Learning, and more**
 - 🌐 Passionate about **web development, software development, and machine learning**
