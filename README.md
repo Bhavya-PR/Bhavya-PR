@@ -1,6 +1,8 @@
-### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There!+👋;Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Open+to+Learning+and+Collaborating" alt="Typing SVG" />
-</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There!+👋;Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Open+to+Learning+and+Collaborating" alt="Typing SVG" />
+ </p>
+
+---
 
 ### 🌟 About Me:
 - 🎓 **M.Sc Software Systems** student at **PSG Tech Coimbatore** (3rd year of 5 years)
