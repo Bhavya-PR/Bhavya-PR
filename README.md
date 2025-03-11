@@ -11,7 +11,7 @@
 - 🛠️ Always open to **collaborations and learning new things**
 - 🌱 Currently exploring **algorithmic trading**
 
-
+---
 
 ### 🛠️ Skills & Tools:
 <p align="center">
