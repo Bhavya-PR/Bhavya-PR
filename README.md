@@ -16,31 +16,33 @@
 
 ### 🛠️ Skills & Tools:
 <p align="center">
-  Programming Languages 
+  Programming Languages
+  <br>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=r" title="R" />
 
-  <!-- Web & Backend -->
+  Web & Backend
+  <br>
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
 
-  <!-- Frontend & UI -->
+  Frontend & UI
+  <br>
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 
-  <!-- Tools -->
+  Tools
+  <br>
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-
-  <!-- Extra Tools (Shields.io) -->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" />
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" title="MetaMask" />
   <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" title="Coinbase" />
