@@ -15,7 +15,6 @@
 ---
 
 ### 🛠️ Skills & Tools:
-<p align="center">
   Programming Languages
   <br>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" />
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" title="MetaMask" />
   <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" title="Coinbase" />
-</p>
 
 ---
 
