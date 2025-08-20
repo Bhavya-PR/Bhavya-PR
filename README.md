@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills & Tools:
 <p align="center">
-  <!-- Programming Languages -->
+  Programming Languages 
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
