@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavya-PR&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavya-PR&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Bhavya-PR&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
